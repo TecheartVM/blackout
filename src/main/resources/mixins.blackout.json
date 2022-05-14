@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "techeart.blackout.mixin",
+  "refmap": "refmap.blackout.json",
+  "mixins": [
+    "MixinBlock",
+    "MixinWorld"
+  ],
+  "client": [],
+  "server": []
+}
