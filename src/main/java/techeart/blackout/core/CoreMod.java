@@ -9,7 +9,7 @@ import techeart.blackout.MainClass;
 import javax.annotation.Nullable;
 import java.util.Map;
 
-@IFMLLoadingPlugin.MCVersion("1.12.2")
+@IFMLLoadingPlugin.MCVersion(MainClass.MC_VERSION)
 @IFMLLoadingPlugin.Name(MainClass.MOD_NAME)
 public class CoreMod implements IFMLLoadingPlugin
 {
